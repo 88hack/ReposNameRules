@@ -1,7 +1,7 @@
 # 极安中国GitHub仓库命名规则
 主要分为三个部分：
-* 武器库
-* 防具库
+* [武器库](https://github.com/88hack/ReposNameRules#%E6%AD%A6%E5%99%A8%E5%BA%93)
+* [防具库](https://github.com/88hack/ReposNameRules#%E9%98%B2%E5%85%B7%E5%BA%93)
 * 稀奇古怪的小玩意儿
 *其中**武器库**和**防具库**的命名规范按照《变形金刚》系列的来，**稀奇古怪的小玩意儿**按照漫威宇宙的来*
 
@@ -176,3 +176,5 @@ Pounce 突击Wingspan 飞翔
 
 Battletrap 圈套Flywheels 飞轮
 
+## 法术库
+#### 法术库的命名规范按照*漫威宇宙*的来
